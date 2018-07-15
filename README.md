@@ -1,4 +1,4 @@
-# generative_adversarial_networks
+# Generative Adversarial Networks
 
 Think of an algorithm that transforms a picture you make into a real picture!
 There is such a creative algorithm that it is capable of doing this and many other things: generative adversarial networks.
